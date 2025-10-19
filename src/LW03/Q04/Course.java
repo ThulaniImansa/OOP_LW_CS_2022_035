@@ -35,5 +35,3 @@ package LW03.Q04;
             this.lec = lec;
         }
     }
-
-}
